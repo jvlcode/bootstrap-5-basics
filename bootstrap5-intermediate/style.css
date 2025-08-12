@@ -1,0 +1,8 @@
+.accordion-button:not(.collapsed) {
+  background-color: #f8ff29;
+  font-weight: bold;
+}
+
+.bg-indigo {
+    background: linear-gradient(135deg, #4e54c8, #8f94fb);
+}
